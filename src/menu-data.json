@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Napolitana",
+      "imageUrl": "https://www.catuspizza.cl/paginas/pizzas/napolitana_s.jpg",
+      "price": 15500
+    },
+    {
+      "id": 2,
+      "name": "Super Catus",
+      "imageUrl": "https://www.catuspizza.cl/paginas/pizzas/supercatus_s.jpg",
+      "price": 22400
+    },
+    {
+      "id": 3,
+      "name": "Catus.CL",
+      "imageUrl": "https://www.catuspizza.cl/paginas/pizzas/cl_s.jpg",
+      "price": 19500
+    },
+    {
+      "id": 4,
+      "name": "Catus Española",
+      "imageUrl": "https://www.catuspizza.cl/paginas/pizzas/espanola_s.jpg",
+      "price": 17900
+    },
+    {
+      "id": 5,
+      "name": "Catus Alemana",
+      "imageUrl": "https://www.catuspizza.cl/paginas/pizzas/alemana_s.jpg",
+      "price": 20100
+    }
+  ]
